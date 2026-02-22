@@ -3,3 +3,5 @@
 
 # 檔案
 main.c 定義行為
+linker.ld 連結腳本
+Makefile 
