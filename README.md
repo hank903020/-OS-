@@ -9,3 +9,6 @@ linker.ld 連結腳本
 startup.s 啟動組合語言
 
 Makefile 自動化編譯
+
+# 目前功能
+定義UART輸出和螢幕顯示，和字母像素定義且顯示於螢幕上。
